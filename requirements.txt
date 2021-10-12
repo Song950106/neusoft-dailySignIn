@@ -2,7 +2,7 @@ certifi==2019.3.9
 chardet==3.0.4
 idna==2.8
 numpy==1.16.4
-opencv-python==4.1.0.25
+opencv-python==4.1.1.26
 Pillow==6.0.0
 Pillow-PIL==0.1.dev0
 pytesseract==0.2.6
